@@ -186,7 +186,7 @@ $port = 3307;
 Open your browser and visit:
 
 ```text
-http://localhost/Employee-Management-System/
+http://localhost/employee-management/
 ```
 
 ## 🔄 CRUD Operations
