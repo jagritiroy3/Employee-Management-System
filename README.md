@@ -64,7 +64,7 @@ Employee-Management-System/
 
 ### 🔐 Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](login.png)
 
 ---
 
@@ -76,13 +76,13 @@ Employee-Management-System/
 
 ### 👥 Employee Management
 
-![Employee Management](screenshots/employees.png)
+![Employee Management](employees.png)
 
 ---
 
 ### ➕ Add Employee
 
-![Add Employee](screenshots/add-employee.png)
+![Add Employee](add-employee.png)
 
 ## 🗄️ Database
 
